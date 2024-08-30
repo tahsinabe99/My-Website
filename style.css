@@ -316,9 +316,10 @@ section {
 }
 
 #about .section__pic-container img {
-  height: 300px;
-  width: 300px;
-  margin: auto 0;
+  height: 250px;
+  width: 250px;
+  margin-bottom: 500px;
+  border-radius: 50%;
 }
 
 /*Experience Section*/
